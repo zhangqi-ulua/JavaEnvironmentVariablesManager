@@ -1,0 +1,2 @@
+# JavaEnvironmentVariablesManager
+Java环境变量自动设置工具，可新建，可一键切换不同JDK版本
